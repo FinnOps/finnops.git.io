@@ -884,15 +884,15 @@ Banner Style
 
 .main-banner:before {
   content: ''; 
-  background: url(../images/finnops.gif);
+  background: url(../images/finnopsgif4.gif);
   /* background-image: url(../images/banner-right-image_1.png); */
   background-repeat: no-repeat;
   background-size: cover; 
   position: absolute;
   right: 0;
   top: 100px;
-  width: 700px;
-  height: 450px;
+  width: 500px;
+  height: 580px;
   /* top: 100px;
   width: 819px;
   height: 674px; */
@@ -1175,14 +1175,14 @@ Portfolio
 
 .our-portfolio .item .hover-effect {
   position: absolute;
-  background-image: url(../images/hover-bg.png);
+  background-image: url(../images/hover\ purple.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   transition: all .5s;
   bottom: -240px;
   right: 30px;
-  width: 239px;
-  height: 210px;
+  width: 280px;
+  height: 180px;
 }
 
 .our-portfolio .item .hover-effect .inner-content {
@@ -1656,6 +1656,7 @@ contact
 --------------------------------------------- 
 */
 
+
 .contact-dec img {
   position: absolute;
   z-index: 1;
@@ -1733,7 +1734,7 @@ form#contact {
   margin-left: -100px;
   position: relative;
   z-index: 2;
-  background-image: url(../images/contact-form-bg.png);
+  background-image: url(../images/first-plan-bg.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
